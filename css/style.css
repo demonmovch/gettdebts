@@ -3319,4 +3319,8 @@ label.error {
   .stage-block__heading{
     font-size: 10px;
   }
+  
+  .features__item {
+  width: auto;
+  }
 }
