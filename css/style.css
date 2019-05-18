@@ -3315,4 +3315,8 @@ label.error {
   .payment-block {
     width: 100%;
   }
+  
+  .stage-block__heading{
+    font-size: 10px;
+  }
 }
